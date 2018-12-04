@@ -1,1 +1,3 @@
-# babyproject
+# Baby Project
+
+# Starting Code for DTW
